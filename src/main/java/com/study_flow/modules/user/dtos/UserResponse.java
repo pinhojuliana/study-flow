@@ -1,4 +1,6 @@
 package com.study_flow.modules.user.dtos;
 
-public record UserResponse() {
+import java.util.UUID;
+
+public record UserResponse(UUID id) {
 }

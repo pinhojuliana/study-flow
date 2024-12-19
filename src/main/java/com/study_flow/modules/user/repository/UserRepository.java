@@ -1,4 +1,4 @@
-package com.study_flow.modules.user;
+package com.study_flow.modules.user.repository;
 
 import com.study_flow.modules.user.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;

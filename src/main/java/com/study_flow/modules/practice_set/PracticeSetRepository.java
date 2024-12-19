@@ -1,4 +1,4 @@
-package com.study_flow.practice_set;
+package com.study_flow.modules.practice_set;
 
 public interface PracticeSetRepository {
 }

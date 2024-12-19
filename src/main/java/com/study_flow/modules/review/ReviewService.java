@@ -1,4 +1,4 @@
-package com.study_flow.review;
+package com.study_flow.modules.review;
 
 public class ReviewService {
 }

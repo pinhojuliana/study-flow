@@ -1,4 +1,4 @@
-package com.study_flow.subtopic;
+package com.study_flow.modules.subtopic;
 
 public class SubtopicService {
 }

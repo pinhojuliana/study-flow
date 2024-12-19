@@ -1,4 +1,4 @@
-package com.study_flow.subject;
+package com.study_flow.modules.subject;
 
 public class Subject {
 }

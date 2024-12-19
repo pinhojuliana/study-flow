@@ -1,7 +1,7 @@
 package com.study_flow.exceptions;
 
 public class UsernameAlreadyExistsException extends RuntimeException {
-  public UsernameAlreadyExistsException(String message) {
-    super(message);
-  }
+    public UsernameAlreadyExistsException(String message) {
+        super(message);
+    }
 }

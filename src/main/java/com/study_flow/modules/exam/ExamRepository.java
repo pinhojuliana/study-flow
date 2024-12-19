@@ -1,4 +1,4 @@
-package com.study_flow.exam;
+package com.study_flow.modules.exam;
 
 public interface ExamRepository {
 }

@@ -1,4 +1,4 @@
-package com.study_flow.User;
+package com.study_flow.user;
 
 public class UserService {
 }
